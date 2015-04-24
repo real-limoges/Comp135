@@ -1,0 +1,2 @@
+echo "I'm running"
+python kNN train.arff test.arff output.arff

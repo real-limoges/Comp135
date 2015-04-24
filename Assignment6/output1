@@ -1,0 +1,16 @@
+Filter Method
+Part A: Features listed in descending order according to the |r| value
+Feature 1 has an |r| of 0.450592384319
+Feature 3 has an |r| of 0.432258430939
+Feature 6 has an |r| of 0.417039520372
+Feature 5 has an |r| of 0.412091032769
+Feature 2 has an |r| of 0.364868696126
+Feature 4 has an |r| of 0.318669372836
+
+Part B: Values of m and Avg LOOCV accuracy
+M: 1, LOOCV Accuracy: 108/155, 69.7% Correctly Classified
+M: 2, LOOCV Accuracy: 54/155, 34.8% Correctly Classified
+M: 3, LOOCV Accuracy: 103/155, 66.5% Correctly Classified
+M: 4, LOOCV Accuracy: 105/155, 67.7% Correctly Classified
+M: 5, LOOCV Accuracy: 105/155, 67.7% Correctly Classified
+M: 6, LOOCV Accuracy: 105/155, 67.7% Correctly Classified

@@ -1,0 +1,4 @@
+Wrapper method
+Iteration 0, Selected Features : {} LOOCV Accuracy: 0/155
+Iteration 1 Selected Features : { 6 } LOOCV Accuracy: 116/155
+Iteration 2 Selected Features : { 6 2 } LOOCV Accuracy: 123/155

@@ -1,0 +1,4 @@
+Own Method
+Iteration 0, Selected Features : {} LOOCV Accuracy: 0/1055
+Iteration 1 Selected Features : { 2 } LOOCV Accuracy: 772/1055
+Iteration 2 Selected Features : { 2 7 } LOOCV Accuracy: 865/1055

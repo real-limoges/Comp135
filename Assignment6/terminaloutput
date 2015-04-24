@@ -1,0 +1,60 @@
+Iteration:  0
+Iteration:  1
+Iteration:  2
+Iteration:  3
+Iteration:  4
+Iteration:  5
+Iteration:  6
+Iteration:  7
+Iteration:  8
+Iteration:  9
+Iteration:  10
+Iteration:  11
+Iteration:  12
+Iteration:  13
+Iteration:  14
+Iteration:  15
+Iteration:  16
+Iteration:  17
+Iteration:  18
+Iteration:  19
+Iteration:  20
+Iteration:  21
+Iteration:  22
+Iteration:  23
+Iteration:  24
+Iteration:  25
+Iteration:  26
+Iteration:  27
+Iteration:  28
+Iteration:  29
+Iteration:  30
+Iteration:  31
+Iteration:  32
+Iteration:  33
+Iteration:  34
+Iteration:  35
+Iteration:  36
+Iteration:  37
+Iteration:  38
+Iteration:  39
+Iteration:  40
+Filter Time : 25412.6724961  seconds
+Iteration:  1
+[755, 652, 699, 699, 699, 699, 700, 704, 699, 699, 699, 727, 704, 714, 724, 720, 659, 721, 699, 699, 699, 749, 728, 699, 699, 699, 772, 702, 699, 752, 699, 699, 699, 702, 699, 820, 700, 699, 738, 713, 699]
+Iteration:  2
+[432, 687, 729, 931, 868, 932, 662, 699, 710, 673, 884, 785, 438, 569, 403, 591, 712, 732, 925, 921, 918, 661, 800, 822, 802, 929, 884, 649, 822, 794, 818, 822, 781, 740, 737, 693, 871, 356, 539, 778]
+Iteration:  3
+[435, 699, 937, 932, 956, 906, 699, 856, 821, 972, 833, 464, 683, 413, 851, 853, 864, 931, 928, 937, 1039, 952, 932, 937, 932, 780, 906, 932, 843, 920, 944, 932, 971, 882, 692, 979, 367, 884, 937]
+Iteration:  4
+[445, 698, 935, 945, 947, 907, 699, 852, 820, 977, 864, 537, 699, 403, 796, 849, 857, 940, 937, 937, 955, 937, 941, 942, 1013, 924, 937, 853, 923, 950, 935, 921, 814, 698, 981, 361, 933, 941]
+Final Incorrect:  16
+Wrapper Time : 20790.139817  seconds
+Iteration:  1
+[755, 772, 749, 738, 704, 724, 700, 699]
+Iteration:  2
+[456, 505, 364, 376, 461, 523, 865]
+Iteration:  3
+[520, 807, 390, 525, 482, 737]
+Final Incorrect:  190
+Own Time:  2197.67169189  seconds
